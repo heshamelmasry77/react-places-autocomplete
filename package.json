@@ -111,7 +111,7 @@
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
-    "prop-types": "^15.5.8"
+    "prop-types": "^15.6.2"
   },
   "peerDependencies": {
     "react": ">=0.14.7"
